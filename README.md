@@ -2,4 +2,4 @@
 
 #About me 
 
-<img src="[https://miro.medium.com/v2/0*oHwW14arOJOAy7Pm.gif](https://miro.medium.com/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
