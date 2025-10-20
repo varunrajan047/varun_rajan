@@ -10,3 +10,9 @@ I’m currently focused on expanding my data analytics portfolio with projects t
 - Data Visualization and Dashboard Design (SQL, Tableau, Excel)
 - Forecasting and Trend Analysis
 - Real-world business problem solving through data storytelling
+
+💬 Let’s Talk About
+Analytics, Investing, SQL optimization, Dashboard building, Data Visualization strategies Sports, or Workout.
+
+⚡ Fun Fact
+I started my data journey by writing my first SQL query out of curiosity—and haven’t stopped since. Now, I’m continuously improving my craft by building projects, learning new tools, and solving problems through data-driven insight.
