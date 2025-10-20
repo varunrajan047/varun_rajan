@@ -19,3 +19,6 @@ Analytics, Investing, SQL optimization, Dashboard building, Data Visualization s
 
 ⚡ Fun Fact
 I started my data journey by writing my first SQL query out of curiosity—and haven’t stopped since. Now, I’m continuously improving my craft by building projects, learning new tools, and solving problems through data-driven insight.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-rajan047/)
